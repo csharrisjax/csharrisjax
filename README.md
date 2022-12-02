@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Hi. My name is Courtney Harris. I am currently a Physical Therapist who is transitioning into tech. I am currently enrolled in the Level Up in Tech Program which leverages real life projects that are needed to become a successful DevOps Engineer. I am interested in becoming a DevOps Engineer and then transition into Cloud Security. I am currently learning Linux, GitHub, AWS, Python, Infrastructure as Code, Containerization, Text Editing and Source Control. 
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Courtney%20Harris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cortneyshenel/)](https://www.linkedin.com/in/cortneyshenel/)
+[![Medium Badge](https://img.shields.io/badge/Courtney%20Harris-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/in/cortneyshenel)](https://www.linkedin.com/in/cortneyshenel/)
+[![Gmail Badge](https://img.shields.io/badge/-csharrisjax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:csharrisjax@gmail.com)](mailto:csharrisjax@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=csharrisjax&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=csharrisjax%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=csharrisjax%2Fcsharrisjax)
