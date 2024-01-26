@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi. My name is Courtney Harris. I am currently a Physical Therapist who is transitioning into tech. I am currently enrolled in the Level Up in Tech Program which leverages real life projects that are needed to become a successful DevOps Engineer. I am interested in becoming a DevOps Engineer and then transition into Cloud Security. I am currently learning Linux, GitHub, AWS, Python, Infrastructure as Code, Containerization, Text Editing and Source Control. 
+Hi. My name is Courtney Harris. I am currently a Physical Therapist who is transitioning into tech. I am currently enrolled in the Level Up in Tech Apprenticeship which leverages real life projects that are needed to become a successful DevOps Engineer. I am interested in becoming a DevOps Engineer and then transition into Cloud Security. I am currently learning Linux, GitHub, AWS, Python, Infrastructure as Code, Containerization, Text Editing and Source Control. 
 
 Find out more about me & feel free to connect with me here:
 
